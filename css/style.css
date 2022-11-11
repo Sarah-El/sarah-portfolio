@@ -1,3 +1,11 @@
+:root {
+
+  --heading-col: rgb(19, 19, 78);
+  --light-blue: rgb(73, 162, 176);
+
+
+}
+
 * {
   box-sizing: border-box;
 }
