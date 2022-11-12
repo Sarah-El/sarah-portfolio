@@ -11,9 +11,15 @@
 
 <body>
   <!-- main logo / nav -->
-  <header>
+  <header class="header">
     <h1>Sarah Ellis</h1>
-    <nav>
+    <nav id="navBar">
+      <ul>
+        <li><a href="#anchor-About">About Me</a></li>
+        <li><a href="#anchor-Work">Work</a></li>
+        <li><a href="#anchor-Contact">Contact</a></li>
+        <li><a href="#anchor-Resume">Resume</a></li>
+      </ul>
     </nav>
   </header>
 
@@ -27,7 +33,7 @@
   <main class="page-wrapper">
     <!-- about me -->
     <section class="page-section" id="about">
-      <h2>About Me</h2>
+      <h2 id="anchor-About">About Me</h2>
       <p>Hi, I'm Sarah! A digital marketer and aspiring web developer. 
         I am currently studying Front-end Web Development at the University of Birmingham. </p>
 
@@ -35,7 +41,7 @@
 
     <!-- portfolio container -->
     <section class="page-section" id="work">
-      <h2>Work</h2>
+      <h2 id="anchor-Work">Work</h2>
         <section class="child">
           <h3>Placeholder</h3>
           <p>Lorem ipsum dolor sit amet.</p>
@@ -64,12 +70,20 @@
 
     <!-- contact -->
     <section class="page-section contact" id="contact">
-      <h2>Contact Me</h2>
+      <h2 id="anchor-Contact">Contact</h2>
     </section>
+
+    <!-- added resume section -->
+    <section class="page-section resume" id="resume">
+      <h2 id="anchor-Resume">Resume</h2>
+      <p>Coming soon.</p>
+    </section>
+
   </main>
 
-    <!-- adding footer for contact me section -->
+    <!-- adding footer for complete design -->
   <footer>
+    <p>Designed by Sarah ❤️</p>
 
   </footer>
 </body>
