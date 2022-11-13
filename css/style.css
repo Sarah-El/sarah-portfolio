@@ -79,8 +79,23 @@ span {
 
 } */
 
+/* .sidebar {
+  border-right: 25px;
+  border-color: var(--heading-col);
+  border-width: 5px;
+  border: 5px;
+} */
+
+
 .mainimg {
   background-image: url(../images/02-run-buddy.jpg);
+  /* position: relative;
+  background-repeat: no-repeat;
+  background-position: none;
+  background-size: 100%;
+  height: 300px;
+  border: solid 10px;
+  border-color: var(--light-blue); */
 }
 
 .ex1 {
@@ -98,6 +113,10 @@ span {
 .ex4 {
   background-image: url(../images/02-portfolio-4.jpg);
 }
+
+/* #imgtext {
+
+} */
 
 * {
   box-sizing: border-box;
