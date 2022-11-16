@@ -31,5 +31,10 @@ N/A
 Please refer to the licence in the repo
 
 ## Link to live
+https://sarah-el.github.io/sarah-portfolio/
 
 ## Screenshots
+<img width="1416" alt="image" src="https://user-images.githubusercontent.com/117095370/202234531-ff2af67b-5ae5-4e2c-92b4-3606e25cddd6.png">
+<img width="1388" alt="image" src="https://user-images.githubusercontent.com/117095370/202234670-c708a228-31c4-4133-b8bd-f53896075636.png">
+
+
